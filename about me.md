@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebWags
 - 👀 I’m interested in anime code
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on beginner java projects
+- 🌱 I’m currently learning Node js
+- 💞️ I’m looking to collaborate on beginner Node js projects
 - 📫 How to reach me dm me
